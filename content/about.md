@@ -1,0 +1,11 @@
+---
+layout: page
+rss_ignore: true
+title: About
+menus:
+  main:
+    weight: 1
+---
+
+![](/images/inspiremetransparentlogo.png)
+I'm Natalia Markelova, the founder of Inspire Me Event Planner, and I'm absolutely delighted to introduce myself as a wedding planner and day-of coordinator. My passion for events stems from the cherished family traditions of my upbringing, where we gathered for grand celebrations filled with love and joy. Weddings, in particular, hold a special place in my heart as they mark a significant milestone in the lives of couples and their families. I truly empathize with the challenges and stress that many brides face during the planning process. Having navigated through the whirlwind of planning my own wedding, I understand firsthand the excitement and, at times, overwhelming nature of it all. It was this personal journey that inspired me to become a wedding planner and day-of coordinator—to ensure that every bride experiences the beauty and ease of planning their dream day. I've often seen questions online about the necessity of hiring a day-of coordinator for weddings. Speaking from my own experience, I wholeheartedly advocate for it. While it may seem straightforward on the surface, the reality is that weddings involve a multitude of moving parts. From managing vendors and guest logistics to handling unforeseen situations, the role of a coordinator is invaluable. During my own wedding, I encountered numerous challenges, from coordinating registry details and transportation to ensuring smooth transitions between ceremony and reception. These experiences underscored the importance of having a dedicated professional overseeing every aspect of the day.Whether your wedding is intimate or grand, the complexities remain the same. That's why I'm here—to alleviate your stress and ensure that your wedding day unfolds seamlessly, leaving you with nothing but cherished memories to hold onto. So, if you envision a wedding day where every detail is flawlessly executed and you can simply savor the moment, then I invite you to entrust me with bringing your vision to life. Together, we'll create an unforgettable experience that you'll treasure for a lifetime.

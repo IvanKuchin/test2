@@ -1,0 +1,41 @@
+copyright = "© Inspire Me Event Planner"
+defaultContentLanguage = "en"
+disableKinds = ["taxonomy", "term"]
+enableRobotsTXT = true
+languageCode = "en"
+timeZone = "Europe/Berlin"
+timeout = "120s"
+title = "Inspire Me Event Planner"
+theme = "gallery"
+
+[params]
+  defaultTheme = "light"
+  description = "Example site for hugo-theme-gallery"
+  title = "My Gallery"
+  [params.author]
+    email = "user@example.com"
+    name = "Your Name"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML"]
+
+[imaging]
+  quality = 75
+  resampleFilter = "CatmullRom"
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription"
+
+
+[menu]
+  [[menu.footer]]
+    name = "Facebook @Inspire Me - Photography & Event Planner"
+    url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+    weight = 2
+
+[services]
+  [services.rss]
+    limit = 100
