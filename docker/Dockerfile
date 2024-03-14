@@ -1,12 +1,12 @@
 ############
 #  Stage 1 #
 ############
-# FROM alpine as builder
-# RUN apk add hugo git
+FROM alpine as builder
+RUN apk add hugo git
 
 # Date renders incorrectly in the container, so we need to set the timezone
-FROM ubuntu as builder
-RUN apt-get update && apt-get install -y hugo git
+# FROM ubuntu as builder
+# RUN apt-get update && apt-get install -y hugo git
 
 # Set destination for COPY
 WORKDIR /app
