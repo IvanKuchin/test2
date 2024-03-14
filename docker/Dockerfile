@@ -11,7 +11,7 @@ RUN apt-get update && apt-get install -y hugo git
 # Set destination for COPY
 WORKDIR /app
 COPY . .
-RUN git submodule add -f https://github.com/heksagonnet/piko.git themes/piko
+RUN git clone https://github.com/nicokaiser/hugo-theme-gallery/ themes/gallery
 
 RUN hugo
 
