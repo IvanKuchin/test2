@@ -1,0 +1,7 @@
+---
+date: 2023-04-01
+featured_image: nikki.webp
+title: Hair & Makeup Nikky Atkinson
+description: Hi there! My name is Nikky Atkinson. I have been  in the beauty industry for over 10 years now. Before I ever knew that I would dive this deep into the world of making people pretty, the innate need to help people has always been there. It didn't really matter in what way, or how. It came instinctively. I also felt this intense need to create. Bringing beautiful things into existence is what I enjoy most. Combining these aspects together, with my desire for wanting to know in what ways they can be brought to fruition, well... It was then that I figured out exactly what to do with my career. The most satisfying thing in life for me is the glow of happiness I am able to bring my clients at the end of every appointment once I brought their conceptualization to life. I am a licensed hair and makeup artist located in the greater Boston area. I currently hold a cosmetology license in both New Hampshire and Massachusetts, specializing in commercial, beauty, fashion and weddings/special events. I trained at a Paul Mitchell Cosmetology school in New Hampshire gaining skills of beauty techniques and sanitation. In addition to providing services, I am looking for opportunities to work with photographers, models and fashion stylists to test with and create new work together. I am also looking for assisting opportunities with seasoned makeup artists and hair stylists. Go to Website for [more](www.nikkyatkinson.format.com)
+#type: gallery
+---

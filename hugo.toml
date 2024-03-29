@@ -11,7 +11,7 @@ theme = "gallery"
 
 [params]
   defaultTheme = "light"
-  description = "Example site for hugo-theme-gallery"
+  description = "Inspire Me - Photography & Event Planner"
   title = "My Gallery"
   [params.author]
     email = "user@example.com"
@@ -29,13 +29,6 @@ theme = "gallery"
     disableDate = false
     disableLatLong = true
     includeFields = "ImageDescription"
-
-
-[menu]
-  [[menu.footer]]
-    name = "Facebook @Inspire Me - Photography & Event Planner"
-    url = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    weight = 2
 
 [services]
   [services.rss]
