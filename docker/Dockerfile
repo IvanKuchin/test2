@@ -2,7 +2,13 @@
 #  Stage 1 #
 ############
 FROM alpine as builder
-RUN apk add hugo git
+RUN apk add --no-cache gcompat libstdc++ git wget
+
+################
+# install hugo #
+################
+RUN wget https://github.com/gohugoio/hugo/releases/download/v0.124.1/hugo_extended_0.124.1_linux-amd64.tar.gz -O /tmp/hugo.tar.gz
+RUN tar -zxf /tmp/hugo.tar.gz -C /usr/bin/
 
 # Date renders incorrectly in the container, so we need to set the timezone
 # FROM ubuntu as builder
